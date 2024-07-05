@@ -1,0 +1,38 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    background-color: darkkhaki;
+    color: black;
+}
+
+.title{
+font-size: 100px;
+}
+
+.sub-title{
+font-size: 40px;
+}
+
+.burger .picture{
+    border: 10px;
+    border-style: solid;
+    border-color: darkslategray;
+}
+
+.lechon .picture{
+    border: 10px;
+    border-style: solid;
+    border-color: darkslategray;
+}
+
+.chicken .picture{
+    border: 10px;
+    border-style: solid;
+    border-color: darkslategray;
+}
+
+.carbonara .picture{
+    border: 10px;
+    border-style: solid;
+    border-color: darkslategray;
+}

@@ -1,0 +1,18 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    background-color: darkkhaki;
+    color: black;
+}
+
+.title{
+font-size: 100px;
+}
+
+.sub-title{
+font-size: 40px;
+}
+
+.list{
+    text-align: justify;
+}
