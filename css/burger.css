@@ -6,7 +6,7 @@ body{
 }
 
 .title{
-font-size: 100px;
+font-size: 75px;
 }
 
 .sub-title{
@@ -15,4 +15,16 @@ font-size: 40px;
 
 .list{
     text-align: justify;
+    border: 5px;
+    border-style: solid;
+    background-color: whitesmoke;
+    padding: 30px;
+}
+
+.picture{
+    border: 10px;
+    border-style: solid;
+    border-color: darkslategray;
+    height: 400px;
+    width: 600px;
 }
