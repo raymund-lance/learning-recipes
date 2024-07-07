@@ -6,17 +6,47 @@ body{
 }
 
 .title{
-font-size: 100px;
+    font-size: 100px;
 }
 
 .sub-title{
-font-size: 40px;
+    font-size: 40px;
+    margin: 0%;
 }
 
 .picture{
+    height: 400px;
+    width: 600px;
+    border-top: 10px solid darkslategray;
+}
+
+.burger,
+.lechon,
+.chicken,
+.carbonara{
     border: 10px;
     border-style: solid;
     border-color: darkslategray;
-    height: 400px;
-    width: 600px;
+    height: 455px;
+}
+
+.burger{
+    display: inline-block;
+    padding: 0%;
+    margin: 10px;  
+}
+
+.lechon{
+    display: inline-block;
+    margin: 10px;
+}
+
+.chicken{
+    display: inline-block;
+    margin: 10px;
+}
+
+.carbonara{
+    display: inline-block;
+    margin: 10px;
 }
